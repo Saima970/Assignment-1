@@ -323,3 +323,48 @@ gap: 40px;
 .feature-list li p{
     white-space: normal;
 }
+.last-section{
+  width: 1600px;
+  height: 506px;
+  gap: 40px;
+  padding: 2px 120px 120px 120px;
+  background-color: #FFFFFF;
+  margin: 0 auto;
+}
+.app{
+   width: 1360px ; 
+   height: 384px;
+   gap: 24px;
+   padding: 80px 40px;
+   border-radius: 12px;
+   background-color: #F7F6F2;
+}
+.capsule{
+    width: 1280px;
+    height: 112px;
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.capsule p{
+    color: #627382;
+}
+.app-2{
+    width: 1280px;
+    height: 88px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+.app-2 .primary-btn{
+     display: inline-flex;   
+    gap: 10px;
+}
+.app-2 p{
+    color: #627382;
+}
