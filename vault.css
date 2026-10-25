@@ -151,3 +151,110 @@ nav img{
     color: #FFFFFF;
     background: transparent;
 }
+
+.problem-section{
+    max-width: 1600px;
+    margin: 0 auto;
+    height: 448px;
+    padding: 0px 120px 120px;
+    
+}
+.mid-section{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+     height: 152px;
+     width: 1360px;
+}
+ .mid-section h1{
+    margin: 0 auto;
+    width: 1360px;
+    color: #001931;
+    
+}
+.mid-section p{
+    width: 1360px;
+    height: 20px;
+    color: #627382;
+}
+.card-container{
+    display: flex;
+    width: 1360px;
+    height: 300px;
+    padding: 0px 120px;
+    gap: 24px;
+
+}
+.card-1{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 24px 24px;
+    gap: 16px;
+    width: 322px;
+    height: 300px;
+}
+
+    .card-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 24px 24px;
+    gap: 16px;
+    width: 322px;
+    height: 300px;
+    }
+     
+.icon-box {
+    width: 60px;
+    height: 60px;
+    background-color: #F95555;
+    color: #FFFFFF;
+    display: inline-flex;
+    align-items: center;
+     justify-content: center;
+     border-radius: 50%;
+    
+}
+.card-img{
+    width: 32px;
+    height: 32px;
+    background-color: #F95555;
+    color: #FFFFFF;
+     display: inline-flex;
+    align-items: center;
+     justify-content: center; 
+}
+.card-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 24px 24px;
+    gap: 16px;
+    width: 322px;
+    height: 300px;
+}
+.card-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 24px 24px;
+    gap: 16px;
+    width: 322px;
+    height: 300px;
+}
