@@ -425,3 +425,13 @@ footer hr{
   color: #FAFAFA;
   text-align: center;
 }
+
+.primary-btn:hover{
+    transform: translate(-4px) scale(1.1);
+}
+.secondary-btn:hover{
+    transform: translate(-2px) scale(1.1);
+}
+.card-container:hover{
+    transform: translate(-2px) scale(1.1);
+}
