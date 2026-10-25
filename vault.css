@@ -1,0 +1,58 @@
+.my-inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+body{
+    font-family: "Inter",sans-serif;
+    font-optical-sizing: auto;
+}
+
+*{
+    margin: 0px;
+     padding: 0px;
+}
+header{
+    background-color: #FFFFFF;
+    
+}
+nav {
+ display: flex;
+justify-content: space-around;
+padding: 120px 16px;
+margin: 0 auto;
+max-width: 1600px;
+width: 100%;
+}
+nav img{
+    background-color: #FFFFFF;
+
+    width: 139px;
+    height: 60px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding: 0;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 157%;
+
+}
+ nav ul li{
+    list-style-type: none;
+}
+ .primary-btn{
+    border: 1px solid #30B868;
+    border-radius: 4px;
+    color: #FFFFFF;
+     background-color: #30B868;
+    padding: 16px 12px;
+    height: 44px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+
+}
